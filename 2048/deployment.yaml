@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: game-2048
-          image: dhanu0510/2048-game:latest
+          image: dhanu0510/2048-game:v1
           ports:
             - containerPort: 80
